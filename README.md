@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ## Project Video
 
-![](https://github.com/RohanGunwal/rohan-frontend-developer/blob/main/12-49-50_AdobeExpress%20(1).gif)
+https://github.com/RohanGunwal/rohan-frontend-developer/blob/main/12-49-50_AdobeExpress%20(1).gif
